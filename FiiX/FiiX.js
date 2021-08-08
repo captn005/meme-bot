@@ -1733,6 +1733,6 @@ client.on("ready", async () => {
   }
 });
 
-cleint.login.("ODcxMTA0NzA3MDEwMTAxMjY4.YQWdeg.chl8DBycK6LqqAxoIOj4epR_22Y")
+cleint.login.("NzI1ODAwNDMzMzcyODg5MTM5.XvUAVA.1yyDt_N2eNbp4ooETEZ5n6zdlUM")
 ); /////
 ////Coded by FiiX/////
